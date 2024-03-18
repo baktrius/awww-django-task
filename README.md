@@ -34,7 +34,7 @@ Po wejściu na stronę serwisu może:
   <kbd><img src="image.png"></img></kbd>
 - wybrać obrazek i zobaczyć jego podgląd bezpośrednio w przeglądarce
   
-  ![alt text](image-1.png)
+  <kbd><img src="image-1.png"></img></kbd>
 
 ### Artysta
 
@@ -42,16 +42,16 @@ Może zalogować się do serwisu korzystając z konta utworzonego dla niego prze
 Ponad to co może zrobić zwykły użytkownik, artysta
 może **edytować** obrazki, które są mu przypisane przez administratora strony.
 
-![alt text](image-2.png)
+<kbd><img src="image-2.png"></img></kbd>
 
 Edycja oznacza, że może on przerobić dowolny obrazek na dowolny inny.
 Najbardziej minimalistyczna wersja spełnienia tego wymagania to implementacja dwóch akcji:
 - usunięcie wszystkich prostokątów z obrazka (poniżej każdy prostokąt można usunąć z osobna)
   
-  ![alt text](image-3.png)
+  <kbd><img src="image-3.png"></img></kbd>
 - dodanie dowolnego prostokąta na koniec obrazka (tzn. wyświetlającego się na wierzchu)
   
-  ![alt text](image-4.png)
+  <kbd><img src="image-4.png"></img></kbd>
 
 ### Administrator strony
 
@@ -60,10 +60,10 @@ skąd może:
 
 - zarządzać kontami dla artystów
   
-  ![alt text](image-5.png)
+  <kbd><img src="image-5.png"></img></kbd>
 - tworzyć nowe obrazki i przypisywać je do edycji artystom
   
-  ![alt text](image-6.png)
+  <kbd><img src="image-6.png"></img></kbd>
 - modyfikować wielkość obrazków
 
 ## Uwagi
