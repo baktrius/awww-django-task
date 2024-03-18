@@ -31,7 +31,7 @@ Po wejściu na stronę serwisu może:
 
 - zobaczyć listę wszystkich opublikowanych obrazków
   
-  ![alt text](image.png)
+  <kbd><img src="image.png"></img></kbd>
 - wybrać obrazek i zobaczyć jego podgląd bezpośrednio w przeglądarce
   
   ![alt text](image-1.png)
